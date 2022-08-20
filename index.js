@@ -55,3 +55,6 @@ function destructivelyRemoveFirstCat()
   return newArray
   
  }
+
+removeFirstCat()
+removeLastCat()
